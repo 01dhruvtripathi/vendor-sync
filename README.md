@@ -311,7 +311,6 @@ Security is paramount in our platform. We implement:
 - **Audit Logging**: Complete audit trail for compliance
 - **Vulnerability Scanning**: Regular security assessments
 
-For detailed security information, see [Security Documentation](docs/security.md).
 
 ---
 
