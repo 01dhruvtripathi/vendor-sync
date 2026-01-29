@@ -347,34 +347,19 @@ npm run test:e2e
 
 ---
 
----
 
-## 📄 License
 
-This project is proprietary software - see the [LICENSE](LICENSE) file for details.
-
-Created by Dhruv Tripathi. All rights reserved. No contributions accepted.
-
----
 
 ## 👤 Creator
 
 - 💼 **Created by**: Dhruv Tripathi
 
----
-
-## 📞 Support
-
-- **Documentation**: [docs.vendorsync.io](https://docs.vendorsync.io)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/advanced-vendor-sync/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/advanced-vendor-sync/discussions)
-- **Email**: support@vendorsync.io
 
 ---
 
 <div align="center">
 
-**[⬆ Back to Top](#advanced-vendor-sync)**
+
 
 Created by Dhruv Tripathi
 
